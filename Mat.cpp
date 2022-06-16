@@ -85,7 +85,7 @@ void Mat::AllocMatrix()
 	{
 		*(matrix + i) = 0;
 	}
-	if (NULL == matrix)
+	if (nullptr == matrix)
 	{
 		cout << "allocation failed!" << endl;
 		exit(-1);
@@ -97,7 +97,7 @@ Mat::~Mat()
 {
 	rows = 0;
 	cols = 0;
-	if (matrix != NULL)
+	if (matrix != nullptr)
 	{
 		delete[] this->matrix;
 	}
@@ -143,6 +143,7 @@ Mat operator+(Mat& m, Mat& n)
 		cout << "The tensor size needs to be the same!" << endl;
 		exit(-99);
 	}
+	return Mat();
 }
 
 Mat operator-(Mat& m, Mat& n)

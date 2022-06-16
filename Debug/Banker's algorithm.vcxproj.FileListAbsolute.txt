@@ -1,3 +1,0 @@
-E:\User_Michaels\C project\operating system\Banker's algorithm\Debug\Banker's algorithm.exe
-E:\User_Michaels\My Projects\C project\operating system\Banker's algorithm\Debug\Banker's algorithm.exe
-D:\Repository\C project\operating system\Banker's algorithm\Debug\Banker's algorithm.exe
