@@ -1,0 +1,7 @@
+﻿  function.cpp
+  main.cpp
+  Mat.cpp
+  正在生成代码...
+e:\user_michaels\my projects\c project\operating system\banker's algorithm\mat.cpp(147): warning C4715: “operator+”: 不是所有的控件路径都返回值
+e:\user_michaels\my projects\c project\operating system\banker's algorithm\mat.cpp(194): warning C4715: “operator-”: 不是所有的控件路径都返回值
+  Banker's algorithm.vcxproj -> E:\User_Michaels\My Projects\C project\operating system\Banker's algorithm\x64\Debug\Banker's algorithm.exe
