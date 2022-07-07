@@ -259,10 +259,7 @@ bool operator<=(Mat& a, Mat& b)
 		}
 		return flag;
 	}
-	else
-	{
-		exit(-2);
-	}
+	exit(-2);
 }
 
 Mat operator<(Mat& a, Mat& b)
